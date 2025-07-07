@@ -12,4 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaferraz05&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaferraz05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻other projects:
+Cypress: https://github.com/caioguimaraesr/Bloom
+Domino: https://github.com/denysleo/domino
