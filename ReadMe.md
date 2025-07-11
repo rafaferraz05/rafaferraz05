@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaferraz05&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 👨‍💻other projects:
-Cypress: https://github.com/caioguimaraesr/Bloom
-Domino: https://github.com/denysleo/domino
+Teste com Cypress: https://github.com/caioguimaraesr/Bloom
+Domino em c: https://github.com/denysleo/domino
